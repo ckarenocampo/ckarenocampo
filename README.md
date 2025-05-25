@@ -1,4 +1,4 @@
-# ¡Hola, soy Cindy Karen Ocampo! 👋
+# ¡Hola, soy Karen Ocampo! 👋
 
 ## 🚀 Sobre mí
 Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con experiencia en el desarrollo de aplicaciones web escalables y eficientes. Expandiendo mis habilidades aprendiendo sobre diseño web responsive y creación de experiencias de usuario intuitivas.
