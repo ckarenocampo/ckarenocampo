@@ -1,5 +1,5 @@
 # ¡Hola, soy Karen Ocampo! 👋
-
+![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=vue)
 ## 🚀 Sobre mí
 Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con experiencia en el desarrollo de aplicaciones web escalables y eficientes. Expandiendo mis habilidades aprendiendo sobre diseño web responsive y creación de experiencias de usuario intuitivas.
 
@@ -46,7 +46,6 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 - Aprendiendo análisis de datos con Pandas
 
 ### ☕ Java 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - Fundamentos sólidos de POO 
   
 ### 🛠 Otras áreas de crecimiento
@@ -54,7 +53,7 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 - Patrones de diseño aplicados
 - Buenas prácticas de testing
   
-## 📫 Cómo contactarme
+## 📫 Contacto
 [![Email](https://img.shields.io/badge/-cindykarenocampo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cindykarenocampo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ocampo) 
 
@@ -62,6 +61,8 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical)](https://github.com/ckarenocampo)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical)](https://github.com/ckarenocampo)
+
+[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=donut&theme=vue&langs_count=6)](https://github.com/ckarenocampo)
 
 ---
 ---
