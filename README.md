@@ -67,11 +67,10 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 | **SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"> | ![80%](https://img.shields.io/badge/-80%25-4479A1?style=flat&logo=mysql&logoColor=white) |
 
 ## 📊 Estadísticas de GitHub
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical)](https://github.com/ckarenocampo)
 ![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical)](https://github.com/ckarenocampo)
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical)](https://github.com/ckarenocampo)
 
 ---
 ---
