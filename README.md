@@ -57,13 +57,20 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 [![Email](https://img.shields.io/badge/-cindykarenocampo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cindykarenocampo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ocampo) 
 
-## 📊 Estadísticas de GitHub
+## 💻 Nivel de dominio Lenguajes
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical&hide_border=true) | [![Streak](https://streak-stats.demolab.com?user=ckarenocampo&theme=radical&hide_border=true)
+![JavaScript](https://progress-bar.dev/90/?title=JavaScript&color=F7DF1E)
+![PHP](https://progress-bar.dev/90/?title=PHP&color=777BB4)
+![Java](https://progress-bar.dev/60/?title=Java&color=007396)
+![Python](https://progress-bar.dev/60/?title=Python&color=3776AB)
+![SQL](https://progress-bar.dev/80/?title=SQL&color=4479A1)
+
+## 📊 Estadísticas de GitHub
+![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical)](https://github.com/ckarenocampo)
 
-[![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical)](https://github.com/ckarenocampo)
 
 ---
 ---
