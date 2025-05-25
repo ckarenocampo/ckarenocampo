@@ -1,5 +1,5 @@
 # ¡Hola, soy Karen Ocampo! 👋
-![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=vue)
+
 ## 🚀 Sobre mí
 Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con experiencia en el desarrollo de aplicaciones web escalables y eficientes. Expandiendo mis habilidades aprendiendo sobre diseño web responsive y creación de experiencias de usuario intuitivas.
 
@@ -62,7 +62,7 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical)](https://github.com/ckarenocampo)
 
-[![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=donut&theme=vue&langs_count=6)](https://github.com/ckarenocampo)
+![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=radical)
 
 ---
 ---
