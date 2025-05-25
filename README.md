@@ -57,13 +57,12 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 [![Email](https://img.shields.io/badge/-cindykarenocampo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cindykarenocampo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ocampo) 
 
-## 💻 Nivel de dominio Lenguajes
-
-![JavaScript](https://progress-bar.dev/90/?title=JavaScript&color=F7DF1E)
-![PHP](https://progress-bar.dev/90/?title=PHP&color=777BB4)
-![Java](https://progress-bar.dev/60/?title=Java&color=007396)
-![Python](https://progress-bar.dev/60/?title=Python&color=3776AB)
-![SQL](https://progress-bar.dev/80/?title=SQL&color=4479A1)
+## 📊 Habilidades Técnicas
+JavaScript: ![](https://progress-bar.dev/90/?width=200&color=F7DF1E)  
+PHP: ![](https://progress-bar.dev/90/?width=200&color=777BB4)  
+Java: ![](https://progress-bar.dev/60/?width=200&color=007396)  
+Python: ![](https://progress-bar.dev/60/?width=200&color=3776AB)  
+SQL: ![](https://progress-bar.dev/80/?width=200&color=4479A1)  
 
 ## 📊 Estadísticas de GitHub
 ![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)
