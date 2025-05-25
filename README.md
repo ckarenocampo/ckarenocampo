@@ -59,11 +59,11 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 
 ## 📊 Estadísticas de GitHub
 
-[![Estadísticas](https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical&hide_border=true)] | [![Streak](https://streak-stats.demolab.com?user=ckarenocampo&theme=radical&hide_border=true)] 
+[![Estadísticas](https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical&hide_border=true) | [![Streak](https://streak-stats.demolab.com?user=ckarenocampo&theme=radical&hide_border=true)
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical)](https://github.com/ckarenocampo)
 
-[![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)]
+[![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)
 
 ---
 ---
