@@ -58,11 +58,13 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ocampo) 
 
 ## 📊 Habilidades Técnicas
-JavaScript: ![](https://progress-bar.dev/90/?width=200&color=F7DF1E)  
-PHP: ![](https://progress-bar.dev/90/?width=200&color=777BB4)  
-Java: ![](https://progress-bar.dev/60/?width=200&color=007396)  
-Python: ![](https://progress-bar.dev/60/?width=200&color=3776AB)  
-SQL: ![](https://progress-bar.dev/80/?width=200&color=4479A1)  
+| Lenguaje    | Nivel |
+|-------------|-------|
+| **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> | ![90%](https://progress-bar.dev/90/?color=F7DF1E) |
+| **PHP** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"> | ![90%](https://progress-bar.dev/90/?color=777BB4) |
+| **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"> | ![60%](https://progress-bar.dev/60/?color=007396) |
+| **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"> | ![60%](https://progress-bar.dev/60/?color=3776AB) |
+| **SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"> | ![80%](https://progress-bar.dev/80/?color=4479A1) |
 
 ## 📊 Estadísticas de GitHub
 ![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)
