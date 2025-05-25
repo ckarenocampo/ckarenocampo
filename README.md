@@ -60,8 +60,8 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 ## 📊 Habilidades Técnicas
 | Lenguaje    | Nivel |
 |-------------|-------|
-| **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> | ![90%](https://img.shields.io/badge/-90%25-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **PHP** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"> | ![90%](https://img.shields.io/badge/-90%25-777BB4?style=flat&logo=php&logoColor=white) |
+| **JavaScript** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"> | ![85%](https://img.shields.io/badge/-90%25-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **PHP** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"> | ![85%](https://img.shields.io/badge/-90%25-777BB4?style=flat&logo=php&logoColor=white) |
 | **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"> | ![60%](https://img.shields.io/badge/-60%25-007396?style=flat&logo=java&logoColor=white) |
 | **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"> | ![60%](https://img.shields.io/badge/-60%25-3776AB?style=flat&logo=python&logoColor=white) |
 | **SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"> | ![80%](https://img.shields.io/badge/-80%25-4479A1?style=flat&logo=mysql&logoColor=white) |
