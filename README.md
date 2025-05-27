@@ -1,8 +1,12 @@
 # ¡Hola, soy Karen Ocampo! 👋
 
 ## 🚀 Sobre mí
+Ing. en Sistemas 💻
 Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con experiencia en el desarrollo de aplicaciones web escalables y eficientes. Expandiendo mis habilidades aprendiendo sobre diseño web responsive y creación de experiencias de usuario intuitivas.
-
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN253amR2YnBodzFxajM2N2xjZTRvd2Z6a293ODdqenIzZ2JxcXdoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+</p>
+- 🐱 **Extra**: Amante de los gatitos y la productividad con estilo (como el de arriba 😉).  
 
 ## 💻 Tecnologías y Habilidades
 
