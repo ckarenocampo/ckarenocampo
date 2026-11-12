@@ -1,13 +1,18 @@
 # ¡Hola, soy Karen Ocampo! 👋
 
-## 🚀 Sobre mí
-Ing. en Sistemas 💻
-Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con experiencia en el desarrollo de aplicaciones web escalables y eficientes. Expandiendo mis habilidades aprendiendo sobre diseño web responsive y creación de experiencias de usuario intuitivas.
+💻 Systems Engineer | Full-Stack Developer
+
+🚀 Sobre mí
+Ingeniera en Sistemas Computacionales y Desarrolladora Full-Stack con experiencia en el diseño, desarrollo e integración de aplicaciones web y móviles.
+Trabajo con tecnologías como React, React Native, Node.js, PHP y .NET, además de gestión de bases de datos y automatización de procesos mediante n8n.
+Me interesa crear soluciones tecnológicas eficientes, optimizar procesos y desarrollar aplicaciones que ofrezcan buenas experiencias a los usuarios.
+También disfruto colaborar con equipos de desarrollo, compartir conocimientos y explicar soluciones técnicas.
+
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN253amR2YnBodzFxajM2N2xjZTRvd2Z6a293ODdqenIzZ2JxcXdoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </p>
 
-## 💻 Tecnologías y Habilidades
+## 💻 Tecnologías y Herramientas
 
 ### Lenguajes de Programación
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -42,19 +47,13 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Áreas de interés y aprendizaje
 
-### 🐍 Python 
-- Mejorando mis habilidades en estructuras de datos y algoritmos
-- Aprendiendo análisis de datos con Pandas
-
-### ☕ Java 
-- Fundamentos sólidos de POO 
-  
-### 🛠 Otras áreas de crecimiento
-- Diseño responsive avanzado
-- Patrones de diseño aplicados
-- Buenas prácticas de testing
+Desarrollo de aplicaciones web y móviles.
+Arquitectura y buenas prácticas de software.
+Automatización e integración de sistemas.
+Optimización de bases de datos y procesos.
+Diseño de interfaces y experiencia de usuario (UX/UI).
   
 ## 📫 Contacto
 [![Email](https://img.shields.io/badge/-cindykarenocampo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cindykarenocampo@gmail.com)
@@ -69,16 +68,18 @@ Desarrolladora Full Stack especializada en tecnologías PHP y JavaScript, con ex
 | **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"> | ![60%](https://img.shields.io/badge/-60%25-3776AB?style=flat&logo=python&logoColor=white) |
 | **SQL** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20"> | ![80%](https://img.shields.io/badge/-80%25-4479A1?style=flat&logo=mysql&logoColor=white) |
 
-## 📊 Estadísticas de GitHub
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical)](https://github.com/ckarenocampo)
-![Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&layout=compact&theme=radical)
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=radical"/>
+</p>
 
----
----
-
-⭐️ "El diseño no es sólo cómo se ve, sino cómo funciona" - Steve Jobs
+⭐ Building solutions through code, creativity and continuous learning.
 
 ⭐️ De [ckarenocampo](https://github.com/ckarenocampo)
 <!---
