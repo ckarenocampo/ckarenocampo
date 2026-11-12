@@ -45,12 +45,6 @@ También disfruto colaborar con equipos de desarrollo, compartir conocimientos y
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## 💻 Tecnologías y Herramientas
-
-### Lenguajes de Programación
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 ## 🌱 Actualmente aprendiendo
 
 ### 🐍 Python 
