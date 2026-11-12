@@ -81,6 +81,10 @@ También disfruto colaborar con equipos de desarrollo, compartir conocimientos y
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=radical"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=radical"/>
+</p>
+
 ⭐ Building solutions through code, creativity and continuous learning.
 
 ⭐️ De [ckarenocampo](https://github.com/ckarenocampo)
