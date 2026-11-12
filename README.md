@@ -47,12 +47,10 @@ También disfruto colaborar con equipos de desarrollo, compartir conocimientos y
 
 ## 🌱 Actualmente aprendiendo
 
-### 🐍 Python 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 - Fortaleciendo conocimientos en programación y estructuras de datos.
 - Explorando el análisis de datos y la automatización de tareas con Python.
 
-### 💙 Flutter 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 - Aprendiendo desarrollo de aplicaciones móviles multiplataforma.
@@ -71,15 +69,6 @@ También disfruto colaborar con equipos de desarrollo, compartir conocimientos y
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-ocampo) 
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ckarenocampo&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckarenocampo&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=radical"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ckarenocampo&theme=radical"/>
