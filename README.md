@@ -2,7 +2,7 @@
 
 💻 Systems Engineer | Full-Stack Developer
 
-🚀 Sobre mí
+##🚀 Sobre mí
 Ingeniera en Sistemas Computacionales y Desarrolladora Full-Stack con experiencia en el diseño, desarrollo e integración de aplicaciones web y móviles.
 Trabajo con tecnologías como React, React Native, Node.js, PHP y .NET, además de gestión de bases de datos y automatización de procesos mediante n8n.
 Me interesa crear soluciones tecnológicas eficientes, optimizar procesos y desarrollar aplicaciones que ofrezcan buenas experiencias a los usuarios.
