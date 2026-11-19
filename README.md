@@ -42,8 +42,8 @@ También disfruto colaborar con equipos de desarrollo, compartir conocimientos y
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ## 🌱 Actualmente aprendiendo
 
